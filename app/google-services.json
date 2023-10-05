@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264103778860",
+    "project_id": "cailonmamay-111ed",
+    "storage_bucket": "cailonmamay-111ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264103778860:android:85a163d92d196121320f89",
+        "android_client_info": {
+          "package_name": "com.example.cailonmamay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8y3VUvqKqGgQdzhQADAFIv_d_VOoq7KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
